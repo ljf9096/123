@@ -34,7 +34,7 @@
 //{"key": "豆瓣","name": "豆瓣","type": 3,"api": "csp_Douban","categories":["热门电影","热播剧集","电影筛选","电视筛选"],"searchable": 0,"jar":"./jar/7h.jar;md5;edc8491a6017cc8531893488707442ee"},
 {"key": "配置","name": "配置中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"jar":"./jar/7h.jar"},
 {"key": "磁力","name": "磁力┃刚哥YYDS","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://www.xb6v.com","jar":"./jar/7h.jar"},
-{"key": "闪电","name": "闪电--4K4K--","type": 3,"api": "csp_闪电","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"token": "http://127.0.0.1:9978/file/TVBox/token.txt","cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"},"jar":"./jar/7h.jar"},
+{"key": "闪电","name": "闪电--4K4K--","type": 3,"api": "csp_闪电","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"token": "http://127.0.0.1:9978/file/TVBox/token.txt","cookie": "https://gitee.com/yuan301/tv/raw/master/jar/quark.txt"},"jar":"./jar/7h.jar"},
 {"key": "多多","name": "多多--4K4K--","type": 3,"api": "csp_多多","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"token": "http://127.0.0.1:9978/file/TVBox/token.txt","cookie": "https://gitee.com/yuan301/tv/raw/master/jar/quark.txt"},"jar":"./jar/7h.jar"},
 {"key": "下饭","name": "下饭--4K4K--","type": 3,"api": "csp_下饭","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"token": "http://127.0.0.1:9978/file/TVBox/token.txt","cookie": "https://gitee.com/yuan301/tv/raw/master/jar/quark.txt"},"jar":"./jar/7h.jar"},
 {"key": "蜡笔","name": "蜡笔--4K4K--","type": 3,"api": "csp_蜡笔","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"token": "http://127.0.0.1:9978/file/TVBox/token.txt","cookie": "https://gitee.com/yuan301/tv/raw/master/jar/quark.txt"},"jar":"./jar/7h.jar"},
