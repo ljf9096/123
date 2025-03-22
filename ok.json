@@ -43,7 +43,132 @@
 //{"key": "木偶","name": "木偶--4K4K--","type": 3,"api": "csp_木偶","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"token": "http://127.0.0.1:9978/file/TVBox/token.txt","cookie": "https://gitee.com/yuan301/tv/raw/master/jar/quark.txt","uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"},"jar":"./jar/7h.jar"},
 //{"key": "欧歌","name": "欧歌--4K4K--","type": 3,"api": "csp_欧歌","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"token": "http://127.0.0.1:9978/file/TVBox/token.txt","cookie": "https://gitee.com/yuan301/tv/raw/master/jar/quark.txt","uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"},"jar":"./jar/7h.jar"},
 //{"key": "至臻","name": "至臻--4K4K--","type": 3,"api": "csp_至臻","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"token": "http://127.0.0.1:9978/file/TVBox/token.txt","cookie": "https://gitee.com/yuan301/tv/raw/master/jar/quark.txt","uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"},"jar":"./jar/7h.jar"},
-
+        {
+            "key": "玩偶",
+            "name": "玩偶---4K---",
+            "type": 3,
+            "api": "csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt"
+            }
+        ,"jar":"./jar/7h2.jar"},
+        {
+            "key": "木偶",
+            "name": "木偶---4K---",
+            "type": 3,
+            "api": "csp_木偶",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt"
+            }
+        ,"jar":"./jar/7h2.jar"},
+        {
+            "key": "至臻",
+            "name": "至臻---4K---",
+            "type": 3,
+            "api": "csp_至臻",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt"
+            }
+         ,"jar":"./jar/7h2.jar"},
+        {
+            "key": "欧歌",
+            "name": "欧歌---4K---",
+            "type": 3,
+            "api": "csp_欧歌",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt"
+            }
+         ,"jar":"./jar/7h2.jar"},
+        {
+            "key": "小米",
+            "name": "小米---4K---",
+            "type": 3,
+            "api": "csp_小米",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt"
+            }
+         ,"jar":"./jar/7h2.jar"},
+        {
+            "key": "虎斑",
+            "name": "虎斑---4K---",
+            "type": 3,
+            "api": "csp_虎斑",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt"
+            }
+         ,"jar":"./jar/7h2.jar"},
+        {
+            "key": "二小",
+            "name": "二小---4K---",
+            "type": 3,
+            "api": "csp_二小",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt"
+            }
+        ,"jar":"./jar/7h2.jar"},
+        {
+            "key": "百家",
+            "name": "百家---4K---",
+            "type": 3,
+            "api": "csp_百家",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt"
+            }
+        ,"jar":"./jar/7h2.jar"},
+        {
+            "key": "大玩",
+            "name": "大玩---4K---",
+            "type": 3,
+            "api": "csp_大玩",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt"
+            }
+         ,"jar":"./jar/7h2.jar"},
 
 //---小米0319---
 {"key": "流光","name": "流光┃刚哥YYDS","type": 3,"api": "csp_FreeOkGuard","jar":"./jar/mi0319.jar"},
