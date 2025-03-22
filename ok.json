@@ -42,7 +42,7 @@
       "quickSearch": 1,
       "changeable": 0,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "token": "./jar/token.txt",
                 "cookie": "./jar/quark.txt",
                 "uc_cookie": "./jar/uc.txt"
             }
