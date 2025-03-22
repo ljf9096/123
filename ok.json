@@ -43,7 +43,7 @@
       "quickSearch": 1,
       "changeable": 0,
             "ext": {
-                "token": "./jar/uc.txt",
+                "token": ".uc/token.txt",
                 "cookie": "./jar/quark.txt"
             }
         ,"jar":"./jar/7h.jar"},
