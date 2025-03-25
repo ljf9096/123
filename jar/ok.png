@@ -220,6 +220,24 @@ CCTV15,http://nas.suntao.online:35455/gaoma/cctv15.m3u8
 CCTV16,http://nas.suntao.online:35455/gaoma/cctv16.m3u8
 CCTV17,http://nas.suntao.online:35455/gaoma/cctv17.m3u8
 
+CCTV1,http://1.itv.nctv.top:7777/gaoma/cctv1.m3u8
+CCTV2,http://1.itv.nctv.top:7777/gaoma/cctv2.m3u8
+CCTV3,http://1.itv.nctv.top:7777/gaoma/cctv3.m3u8
+CCTV4,http://1.itv.nctv.top:7777/gaoma/cctv4.m3u8
+CCTV5,http://1.itv.nctv.top:7777/gaoma/cctv5.m3u8
+CCTV5+,http://1.itv.nctv.top:7777/gaoma/cctv5p.m3u8
+CCTV6,http://1.itv.nctv.top:7777/gaoma/cctv6.m3u8
+CCTV7,http://1.itv.nctv.top:7777/gaoma/cctv7.m3u8
+CCTV8,http://1.itv.nctv.top:7777/gaoma/cctv8.m3u8
+CCTV9,http://1.itv.nctv.top:7777/gaoma/cctv9.m3u8
+CCTV10,http://1.itv.nctv.top:7777/gaoma/cctv10.m3u8
+CCTV11,http://1.itv.nctv.top:7777/gaoma/cctv11.m3u8
+CCTV13,http://1.itv.nctv.top:7777/gaoma/cctv13.m3u8
+CCTV14,http://1.itv.nctv.top:7777/gaoma/cctv14.m3u8
+CCTV15,http://1.itv.nctv.top:7777/gaoma/cctv15.m3u8
+CCTV16,http://1.itv.nctv.top:7777/gaoma/cctv16.m3u8
+CCTV17,http://1.itv.nctv.top:7777/gaoma/cctv17.m3u8
+
 四川频道,#genre#
 绵阳新闻综合,video://http://www.myntv.cn/html/zb/mytv1.asp
 绵阳科教生活,video://http://www.myntv.cn/html/zb/mytv2.asp
@@ -533,9 +551,9 @@ RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/st
 2024年陕西卫视春节联欢晚会https://v10.dious.cc/20240210/yYlVw3Ur/index.m3u8
 2024安徽卫视农民春节联欢晚会,https://v10.dious.cc/20240210/UnLrYixW/index.m3u8
 2024年中国杂技大联欢,https://v10.dious.cc/20240210/672HyyQ9/index.m3u8
-启航2024 CCTV跨年晚会【CCTV综艺频道】,https://v10.dious.cc/20240101/jb33ogNp/index.m3u8
+启航2024 CCTV跨年晚会,https://v10.dious.cc/20240101/jb33ogNp/index.m3u8
 2024年珠江春节联欢晚会,https://v10.dious.cc/20240209/lNN6pUqq/index.m3u8
-2024年中央广播电视总台网络春节联欢晚会【CCTV综合频道】,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
+2024年中央广播电视总台网络春节联欢晚会,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 2025年中央电视台春节联欢晚会,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 游戏频道,#genre#
 王者荣耀,https://live.iill.top/huya/660002
