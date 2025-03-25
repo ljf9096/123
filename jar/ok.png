@@ -96,9 +96,9 @@ CCTV5+,http://iptv.huuc.edu.cn/hls/cctv5phd.m3u8
 CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
+CCTV9,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=cdf682&tk=822270345d4c
 CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
+CCTV11,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e74a5d&tk=822270345d4c
 CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
@@ -161,6 +161,9 @@ CCTV5,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=068b29&tk=822270345d4c
 CCTV5+,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6ea605&tk=822270345d4c
 CCTV6,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=299c59&tk=822270345d4c
 CCTV7,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=87e2a4&tk=822270345d4c
+CCTV8,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=baf0cf&tk=822270345d4c
+CCTV9,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=cdf682&tk=822270345d4c
+CCTV10,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=bfe42b&tk=822270345d4c
 CCTV11,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e74a5d&tk=822270345d4c
 CCTV12,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1e86d6&tk=822270345d4c
 CCTV13,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=66f5cd&tk=822270345d4c
