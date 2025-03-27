@@ -193,8 +193,6 @@
 {"key": "来看","name": "来看┃刚哥YYDS","type": 3,"api": "csp_Lkdy","jar":"./jar/mi0224.jar"},
 //---肥猫1122+XBPQ---
 {"key":"云播","name":"云播┃刚哥YYDS","type": 3,"api": "csp_Tvyb","jar":"./jar/mao1122.jar"},
-{"key":"辰辰","name":"辰辰┃刚哥YYDS","type": 3,"api": "csp_XBPQ","jar":"./jar/mao1122.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./jar/辰辰.js"},
-{"key":"酒酒","name":"酒酒┃刚哥YYDS","type": 3,"api": "csp_XBPQ","jar":"./jar/mao1122.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./jar/酒酒.js"},
 {"key":"奇优","name":"奇优┃刚哥YYDS","type": 3,"api": "csp_XBPQ","jar":"./jar/mao1122.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./jar/奇优.js"},
 {"key":"木耳","name":"木耳┃刚哥YYDS","type": 3,"api": "csp_XBPQ","jar":"./jar/mao1122.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./jar/木耳.js"},
 {"key":"好影","name":"好影┃刚哥YYDS","type": 3,"api": "csp_XBPQ","jar":"./jar/mao1122.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./jar/好影.js"},
