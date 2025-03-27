@@ -1,4 +1,4 @@
-{"spider":"./jar/7h.jar;md5;12b4f385d639d2d3cd6ae171930d6935",
+{"spider":"./jar/7h.jar",
 "hosts":["cache.ott.fifalive.itv.cmvideo.cn=base-v4v6-cm-miguvideo.e.cdn.chinamobile.com"],
 "lives":[{"name":"刚哥无敌","type":0,"url":"./jar/ok.png","ua":"okhttp/3.15","timeout":5,"epg":"https://epg.v1.mk/json?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"}],
 "logo":"./jar/logo.gif",
