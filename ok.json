@@ -192,13 +192,13 @@
 {"key": "电影","name": "电影┃刚哥YYDS","type": 3,"api": "csp_MiTuApp","ext": "sHR2rlsfjI4L3t4RXQMkn9pXqDDJVVS6pwdk2S4nTvU6TUFngKGexyvHMXSXO57AN6M4LsBHwZ1tcHnPZ2gPH1m7qu7r1zc7CkawgqunMPxZznGnqtbiv5NVOliQUr2NK4Pee7PFE2+BCvbGUPd3IR9Hiub1wBkbrfqjptJFLEpVXeR1pgeGp6pPUjADtyQPuXHj4azaFzDrobUCcdcn7KM6ZC4rjkupd5HlbdqhOJTRBv917h5RUlXs1sgRU1+EWkMXuNopX+18VjWwSrFYPw==","jar":"./jar/mi0224.jar"},
 {"key": "来看","name": "来看┃刚哥YYDS","type": 3,"api": "csp_Lkdy","jar":"./jar/mi0224.jar"},
 //---肥猫1122+XBPQ---
-{"key":"云播","name":"云播┃刚哥YYDS","type": 3,"api": "csp_Tvyb","jar":"./jar/mao1122.jar"},
-{"key":"奇优","name":"奇优┃刚哥YYDS","type": 3,"api": "csp_XBPQ","jar":"./jar/mao1122.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./jar/奇优.js"},
-{"key":"木耳","name":"木耳┃刚哥YYDS","type": 3,"api": "csp_XBPQ","jar":"./jar/mao1122.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./jar/木耳.js"},
-{"key":"好影","name":"好影┃刚哥YYDS","type": 3,"api": "csp_XBPQ","jar":"./jar/mao1122.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./jar/好影.js"},
+{"key":"云播","name":"云播┃刚哥YYDS","type": 3,"api": "csp_Tvyb","jar":"./jar/xc.jar"},
+{"key":"奇优","name":"奇优┃刚哥YYDS","type": 3,"api": "csp_XBPQ","jar":"./jar/xc.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./jar/奇优.js"},
+{"key":"木耳","name":"木耳┃刚哥YYDS","type": 3,"api": "csp_XBPQ","jar":"./jar/xc.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./jar/木耳.js"},
+{"key":"好影","name":"好影┃刚哥YYDS","type": 3,"api": "csp_XBPQ","jar":"./jar/xc.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./jar/好影.js"},
 //---星辰XBPQ---
 
-{"key":"西南","name":"西南┃刚哥YYDS","type": 3,"api": "csp_XBPQ","jar": "./jar/mao1122.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./jar/西南.js"},
+{"key":"西南","name":"西南┃刚哥YYDS","type": 3,"api": "csp_XBPQ","jar": "./jar/xc.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./jar/西南.js"},
 
 //---VOD---
 {"key":"爱克","name":"爱克┃刚哥YYDS","type":1,"api":"https://www.ikunzy.com/api.php/provide/vod/","categories":["国产剧"]},
