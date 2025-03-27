@@ -4,9 +4,9 @@
 "logo":"./jar/logo.gif",
 "sites":[
 //{"key":"刚哥YYDS","name":"【请勿相信视频中的广告】","type":3,"api":"https://d.kstore.dev/download/11912/drpy_libs/drpy2.min.js","searchable":0,"ext": "https://d.kstore.dev/download/11912/drpy_libs/douban.js"},
-//{"key":"刚哥YYDS","name":"【请勿相信视频中的广告】","type": 3,"api":"csp_Douban","categories":["热门电影","热播剧集","电影筛选","电视筛选"],"searchable":0,"jar":"./jar/mao1122.jar;md5;b22151214f757c2d4b25635393e06228"},
+{"key":"刚哥YYDS","name":"【请勿相信视频中的广告】","type": 3,"api":"csp_Douban","categories":["热门电影","热播剧集","电影筛选","电视筛选"],"searchable":0,"jar":"./jar/mao1122.jar;md5;b22151214f757c2d4b25635393e06228"},
 //{"key":"刚哥YYDS","name":"【请勿相信视频中的广告】","type":3,"api":"csp_Douban","categories":["热门电影","热播剧集","电影筛选","电视筛选"],"searchable":0,"jar":"./jar/xc.jar"},
-{"key": "刚哥YYDS","name": "【请勿相信视频中的广告】","type": 3,"api": "csp_Douban","categories":["热门电影","热播剧集","电影筛选","电视筛选"],"searchable": 0,"jar":"./jar/7h.jar;md5;12b4f385d639d2d3cd6ae171930d6935"},
+//{"key": "刚哥YYDS","name": "【请勿相信视频中的广告】","type": 3,"api": "csp_Douban","categories":["热门电影","热播剧集","电影筛选","电视筛选"],"searchable": 0,"jar":"./jar/7h.jar;md5;12b4f385d639d2d3cd6ae171930d6935"},
 //---巧计qj---
 {"key": "热播","name": "热播┃刚哥YYDS","type": 3,"api": "csp_TTian","ext": "caHR0cDovL3YucmJvdHYuY24=","categories":["电影","内地","动漫","综艺"],"jar":"./jar/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"},
 {"key": "天天","name": "天天┃刚哥YYDS","type": 3,"api": "csp_TTian","ext": "baHR0cDovL3R0LnlzZHFqcy5jbg==","categories":["电影","内地","动漫","综艺"],"jar": "./jar/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"},
