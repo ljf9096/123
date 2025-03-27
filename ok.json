@@ -1,4 +1,4 @@
-{"spider":"https://gitee.com/yuan301/tv/raw/master/jar/7h.jar;md5;12b4f385d639d2d3cd6ae171930d6935",
+{"spider":"./jar/7h.jar;md5;12b4f385d639d2d3cd6ae171930d6935",
 "hosts":["cache.ott.fifalive.itv.cmvideo.cn=base-v4v6-cm-miguvideo.e.cdn.chinamobile.com"],
 "lives":[{"name":"刚哥无敌","type":0,"url":"./jar/ok.png","ua":"okhttp/3.15","timeout":5,"epg":"https://epg.v1.mk/json?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"}],
 "logo":"./jar/logo.gif",
@@ -173,6 +173,12 @@
                 "cookie": "./jar/bi.txt"
             }},
 //---小米0319---
+        {
+            "key": "csp_SAOHUO",
+            "name": "🔥火火┃1080P",
+            "type": 3,
+            "api": "csp_SaoHuoGuard"
+       ,"jar":"./jar/mi0319.jar"},
 {"key": "短剧","name": "短剧┃刚哥YYDS","type": 3,"api": "csp_AppXYGuard","jar":"./jar/mi0319.jar"},
 {"key": "流光","name": "流光┃刚哥YYDS","type": 3,"api": "csp_FreeOkGuard","jar":"./jar/mi0319.jar"},
 {"key": "火火","name": "火火┃刚哥YYDS","type": 3,"api": "csp_SaoHuoGuard","jar":"./jar/mi0319.jar"},
