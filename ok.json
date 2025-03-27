@@ -141,8 +141,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "./jar/quark.txt",
                 "uc_cookie": "./jar/uc.txt"
-            }
-        ,"jar":"./jar/7h.jar"},
+            }},
         {
             "key": "百家",
             "name": "百家---4K---",
@@ -155,8 +154,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "./jar/quark.txt",
                 "uc_cookie": "./jar/uc.txt"
-            }
-        ,"jar":"./jar/7h.jar"},
+            }},
         {
             "key": "大玩",
             "name": "大玩---4K---",
@@ -169,8 +167,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "./jar/quark.txt",
                 "uc_cookie": "./jar/uc.txt"
-            }
-         ,"jar":"./jar/7h.jar"},
+            }},
         {
             "key": "哔哔",
             "name": "哔哔┃刚哥YYDS",
