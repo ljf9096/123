@@ -199,8 +199,8 @@
 {"key":"木耳","name":"木耳┃刚哥YYDS","type": 3,"api": "csp_XBPQ","jar":"./jar/mao1122.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./jar/木耳.js"},
 {"key":"好影","name":"好影┃刚哥YYDS","type": 3,"api": "csp_XBPQ","jar":"./jar/mao1122.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./jar/好影.js"},
 //---星辰XBPQ---
-{"key":"星星","name":"星星┃刚哥YYDS","type": 3,"api": "csp_XBPQ","jar": "./jar/mao1122.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./jar/星星.js"}, 
-{"key":"西南","name":"西南┃刚哥YYDS","type": 3,"api": "csp_XBPQ","jar": "./jar/mao1122.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./jar/西南.js"},
+{"key":"星星","name":"星星┃刚哥YYDS","type": 3,"api": "csp_XBPQ","jar": "./jar/xc.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./jar/星星.js"}, 
+{"key":"西南","name":"西南┃刚哥YYDS","type": 3,"api": "csp_XBPQ","jar": "./jar/xc.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./jar/西南.js"},
 {"key":"爱影","name":"爱影┃刚哥YYDS","type": 3,"api": "csp_XBPQ","jar": "./jar/mao1122.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./jar/爱影.js"},
 //---VOD---
 {"key":"爱克","name":"爱克┃刚哥YYDS","type":1,"api":"https://www.ikunzy.com/api.php/provide/vod/","categories":["国产剧"]},
