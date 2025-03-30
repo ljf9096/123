@@ -31,7 +31,7 @@
 {"key": "星河","name": "星河┃刚哥YYDS","type": 3,"api": "csp_Xdai","ext": "caHR0cDovL3Rlbmd4dW55dW5hbGl5dW4ub3NzLWNuLXNoYW5naGFpLmFsaXl1bmNzLmNvbS90ZW5neHVueXVuLnR4dHxmNWUydHg1M3lrcDZzMmM5fGY1ZTJ0eDUzeWtwNnMyYzl8MzYx","jar":"./jar/qj0304.jar"},
 {"key": "主角","name": "主角┃刚哥YYDS","type": 3,"api": "csp_Muou","ext": "caHR0cHM6Ly9tdW91YXBwLmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44","jar":"./jar/qj0304.jar"},
 //---网盘7h---
-{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.33},"jar":"./jar/lzxw.jar;md5;57e9350af1723d8435d749d4dab0f71b"},
+{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.33}},
 
 {"key":"蜡笔","name":"蜡笔✨-4K-","type":3,"api":"csp_Wobg","searchable": 1,"quickSearch": 1,"changeable": 0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"./jar/quark.txt","site":"http://feimaoai.site"}},
 {"key":"玩偶","name":"玩偶✨-4K-","type":3,"api":"csp_Wogg","searchable": 1,"quickSearch": 1,"changeable": 0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"./jar/quark.txt","uc_cookie":"./jar/uc.txt","wogg":true}},
