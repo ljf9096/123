@@ -238,6 +238,7 @@
 {"key": "光速","name": "光速┃刚哥YYDS","type": 3,"api": "csp_AppGetGuard","ext": "sHR2rlsfjI4L3t4RXQMkn97hxHYaEbu5lFfPUXOxEzpAZL11z+ayZEbLSb3vs/v8ZS0i6U3Oh/aCVpUdIeZzRgc5TQyB2k7aC0UwqxoW281lBnRyLoSPb+ejqJ92E4RYuH9BABywIr8NA9Bn0Ndnl5c+AJCGNVdUwDUcd6fmGzQoQ+VuzRpX5xfgCbnpjcTp56dL50nhDb7IIe7CtKv7pA==","jar":"./jar/mi0319.jar"},
 {"key": "优秀","name": "优秀┃刚哥YYDS","type": 3,"api": "csp_AppGetGuard","ext": "rpb8IjZTuzYSqZNn/sGvG+nmDP6c5rlJM5DTXdn6d/OdwIl8hAgvoCnQmL7YkzCXHe+hpViArom3TFB7ORHGx8Gsyk/NiHE7VuNzVMP/C+/r78ogd9EF54Pi+n6PkOaxl7jEppsqJjozMoCPS929dwPWfx4NGsZnpVFvANeZUOzlo4RKfmAaN35kAo+7amKcqawPF/jPPsCEXambLeH+PqICmlcdkCN+3k+Dft4Z8iA=","jar":"./jar/mi0319.jar"},
 {"key": "︎米兔","name": "米兔┃刚哥YYDS","type": 3,"api": "csp_AppGetGuard","ext": "sHR2rlsfjI4L3t4RXQMkn4/zRHG7KueeJHsenaeUMOWp1EzObBSdbU9et5QXxSbLZNx3dMChdqtSieuV5wZj006LehfFeCmj8B095j2lIKIF0YoQe+MZcPjGy7gtOViYZ6wvyGkzWk6oD1mJmauAyZhYFgIf28dxzY5kbxJVtI2PjlO6xlD2NRNjVM5uVtSkhN2Pf9gmJ5qaWk40c4YC+w==","jar":"./jar/mi0319.jar"},
+{"key": "电影","name": "电影┃刚哥YYDS","type": 3,"quickSearch": 0,"api": "csp_AppGetGuard","ext": "KsP46vke46cPylpEP8h9kZQJOZt+JFV0mLhSq1biyJHvVsOks76ATO6+1K5bMVwKoqUvbaJnqQw0qiRAw0clHVzc5nwgXHppf37s+mKJzTalSdw77exZP67VWFx0pLwky0XcMUIQ9YFHmMIHR3XI1BmEqAemBbCm8ULBqAe9laKmHMoGZOUdnIvPcBk2POPi2ti4ZJNrHQhuVqgbibt7ygEMGLwhIJnmyaaUWErenDs=","jar":"./jar/mi0319.jar"},
 //---小米0224---
 {"key": "添添","name": "添添┃刚哥YYDS","type": 3,"api": "csp_AppRJ","ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK","jar":"./jar/mi0224.jar"},
 {"key": "热热","name": "热热┃刚哥YYDS","type": 3,"api": "csp_AppRJ","ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb","jar":"./jar/mi0224.jar"},
@@ -245,7 +246,6 @@
 {"key": "农民","name": "农民┃刚哥YYDS","type": 3,"api": "csp_Wwys","ext": "https://www.wwgz.cn","jar":"./jar/mi0224.jar"},
 {"key": "金牌","name": "金牌┃刚哥YYDS","type": 3,"api": "csp_Jpys","jar":"./jar/mi0224.jar"},
 {"key": "瓜子","name": "瓜子┃刚哥YYDS","type": 3,"api": "csp_Gz360","jar":"./jar/mi0224.jar"},
-{"key": "电影","name": "电影┃刚哥YYDS","type": 3,"api": "csp_MiTuApp","ext": "sHR2rlsfjI4L3t4RXQMkn9pXqDDJVVS6pwdk2S4nTvU6TUFngKGexyvHMXSXO57AN6M4LsBHwZ1tcHnPZ2gPH1m7qu7r1zc7CkawgqunMPxZznGnqtbiv5NVOliQUr2NK4Pee7PFE2+BCvbGUPd3IR9Hiub1wBkbrfqjptJFLEpVXeR1pgeGp6pPUjADtyQPuXHj4azaFzDrobUCcdcn7KM6ZC4rjkupd5HlbdqhOJTRBv917h5RUlXs1sgRU1+EWkMXuNopX+18VjWwSrFYPw==","jar":"./jar/mi0224.jar"},
 {"key": "来看","name": "来看┃刚哥YYDS","type": 3,"api": "csp_Lkdy","jar":"./jar/mi0224.jar"},
 //---肥猫1122+XBPQ---
 {"key":"云播","name":"云播┃刚哥YYDS","type":3,"api":"csp_Tvyb","jar":"./jar/mao1122.jar"},
