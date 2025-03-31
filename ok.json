@@ -42,7 +42,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./json/pan1.json?",
+            "ext": "http://38.165.20.168/json/pan1.json?",
             "123_token": "./jar/123.txt"
         },
 
