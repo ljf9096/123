@@ -42,14 +42,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": {
- "123_token": "./jar/123.txt"
-            }
+            "ext": "./json/pan1.json?",
+            "123_token": "./jar/123.txt"
         },
+
 //---小米0319---
 {"key": "短剧","name": "短剧┃刚哥YYDS","type": 3,"api": "csp_AppXYGuard","jar":"./jar/mi0319.jar"},
 {"key": "流光","name": "流光┃刚哥YYDS","type": 3,"api": "csp_FreeOkGuard","jar":"./jar/mi0319.jar"},
