@@ -13,12 +13,14 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "site": "http://38.165.20.168/json/pan1.json?"
-        },
+"ext":{
+    "token":"http://127.0.0.1:9978/file/tvbox/tok.txt",
+    "cookie":"http://127.0.0.1:9978/file/tvbox/quark.txt",
+    "uc_cookie":"http://127.0.0.1:9978/file/tvbox/uc.txt",
+    "123_token": "./jar/123.txt",
+    "site":"http://38.165.20.168/json/pan1.json?",
+    "danmu":true},
+
 
 
 {"key":"相声小品","name":"📚相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"https://codeberg.org/yuan301/tv/raw/branch/main/jar/相声小品.json","jar":"./jar/mao1122.jar"},
