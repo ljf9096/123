@@ -17,7 +17,7 @@
                 "type": "rect",
                 "ratio": 1.433
             },
-            "site": "./json/pan1.json?"
+            "site": "http://38.165.20.168/json/pan1.json?"
         },
 
 
