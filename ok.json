@@ -43,7 +43,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "http://38.165.20.168/json/pan1.json?",
-            "123_token": "./jar/123.txt"
+            "123_token": "https://gitee.com/yuan301/tv/raw/master/jar/123.txt"
         },
 
 //---小米0319---
