@@ -65,7 +65,7 @@
                 "type": "rect",
                 "ratio": 1.433
             },
-            "ext": "./json/pan1.json?"
+            "ext": "http://38.165.20.168/json/pan1.json?"
         },
 //---小米0319---
 {"key": "短剧","name": "短剧┃刚哥YYDS","type": 3,"api": "csp_AppXYGuard","jar":"./jar/mi0319.jar"},
