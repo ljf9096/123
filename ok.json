@@ -263,15 +263,5 @@
 {"key":"红牛","name":"红牛┃刚哥YYDS","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod","categories":["国产剧"]},
 {"key":"哔哩合集","name":"哔哩┃合集","type":3,"api":"csp_Bili","ext":"https://codeberg.org/yuan301/tv/raw/branch/main/jar/哔哩合集.json","jar":"./jar/mao1122.jar"},
 {"key":"哔哩音乐","name":"哔哩┃音乐","type":3,"api":"csp_Bili","ext":"https://codeberg.org/yuan301/tv/raw/branch/main/jar/哔哩音乐.json","jar":"./jar/mao1122.jar"},
-{"key":"相声小品","name":"📚相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"https://codeberg.org/yuan301/tv/raw/branch/main/jar/相声小品.json","jar":"./jar/mao1122.jar"},
-{"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"https://codeberg.org/yuan301/tv/raw/branch/main/jar/少儿教育.json","jar":"./jar/mao1122.jar"},
-{"key":"小学教育","name":"📚小学教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"https://codeberg.org/yuan301/tv/raw/branch/main/jar/小学教育.json","jar":"./jar/mao1122.jar"},
-{"key":"初中教育","name":"📚初中教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"https://codeberg.org/yuan301/tv/raw/branch/main/jar/初中教育.json","jar":"./jar/mao1122.jar"},
-{"key":"高中教育","name":"📚高中教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"https://codeberg.org/yuan301/tv/raw/branch/main/jar/高中教育.json","jar":"./jar/mao1122.jar"}
-],
-"parses": [    
-{"name":"无敌","type":3,"url":"Demo"},
-{"name":"刚哥YYDS1","type":1,"url":"http://isp.wki8.com/jx.php?url="},
-{"name":"刚哥YYDS2","type":1,"url":"https://zy.qiaoji8.com/neibu.php?url="},
-{"name":"刚哥YYDS3","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url="}
+{"key":"相声小品","name":"📚相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"https://codeberg.org/yuan301/tv/raw/branch/main/jar/相声小品.json","jar":"./jar/mao1122.jar"}
 ]}
