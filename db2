@@ -1,7 +1,5 @@
 {
-    "spider": "./spider.jar",
-    "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
-    "logo": "http://ceshi.xn--z7x900a.com/panda/0262.png",
+    
     "sites": [
         {
             "key": "豆瓣",
@@ -42,6 +40,7 @@
                 "danmu": true,
                 "site": "aHR0cDovL3R0LnlzZHFqcy5jbg=="
             }
+       ,"jar": "./spider.jar"}
         },
         {
             "key": "热播弹幕",
