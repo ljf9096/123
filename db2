@@ -298,58 +298,7 @@
             "filterable": 1,
             "ext": "https://cs.hgyx.vip/api2/api.php/app/"
         },
-        {
-            "key": "猎手影视",
-            "name": "猎手｜APP",
-            "type": 3,
-            "api": "./PY/猎手影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "火车影视",
-            "name": "火车｜APP",
-            "type": 3,
-            "api": "./PY/火车影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "美帕影视",
-            "name": "美帕｜APP",
-            "type": 3,
-            "api": "./PY/美帕影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "嗨皮影视",
-            "name": "嗨皮｜APP",
-            "type": 3,
-            "api": "./PY/嗨皮影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "巧技",
-            "name": "巧技｜APP",
-            "type": 3,
-            "api": "csp_qiao2",
-            "playerType": 2,
-            "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"
-        },
+
         {
             "key": "木头",
             "name": "木头｜APP",
@@ -358,14 +307,7 @@
             "playerType": 1,
             "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
         },
-        {
-            "key": "永夜",
-            "name": "永夜｜App",
-            "type": 3,
-            "api": "csp_Muou",
-            "playerType": 2,
-            "ext": "caHR0cDovLzExMC40MC42NC4yMjU6ODk0NXxHOGt6QjF2WHdRcDlaN21GfEc4a3pCMXZYd1FwOVo3bUZ8MTAw"
-        },
+
         {
             "key": "星河",
             "name": "星河｜APP",
@@ -390,14 +332,7 @@
             "playerType": 2,
             "ext": "caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA=="
         },
-        {
-            "key": "龙虾",
-            "name": "龙虾｜APP",
-            "type": 3,
-            "api": "csp_Xdai",
-            "playerType": 1,
-            "ext": "jaHR0cDovL3BweC5iangzNjUudG9wfHBpcGl4aWEyMTc1MjIzMjR8cGlwaXhpYTIxNzUyMjMyNHw1MDY="
-        },
+
         {
             "key": "起点",
             "name": "起点｜APP",
