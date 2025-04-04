@@ -1,5 +1,4 @@
 {"spider": "./spider.jar",
-    "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     
     
     "sites": [
