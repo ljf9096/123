@@ -40,7 +40,7 @@
                 "danmu": true,
                 "site": "aHR0cDovL3R0LnlzZHFqcy5jbg=="
             }
-       ,"jar": "./spider.jar"}
+       ,"jar": "./spider.jar"
         },
         {
             "key": "热播弹幕",
