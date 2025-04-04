@@ -8,7 +8,6 @@
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
-"jar": "./spider.jar",
         },
         {
             "key": "预告",
@@ -42,7 +41,6 @@
                 "danmu": true,
                 "site": "aHR0cDovL3R0LnlzZHFqcy5jbg=="
             }
-"jar": "./spider.jar",
         },
         {
             "key": "热播弹幕",
