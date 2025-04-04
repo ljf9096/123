@@ -522,13 +522,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "小枫影视",
-            "name": "小枫｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./XBPQ/小枫影视.json"
-        },
+
         {
             "key": "奇迹影视",
             "name": "奇迹｜影视",
@@ -564,13 +558,7 @@
             "api": "csp_XBPQ",
             "ext": "./XBPQ/永乐影视.json"
         },
-        {
-            "key": "雪糕影视",
-            "name": "雪糕｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./XBPQ/雪糕影视.json"
-        },
+
         {
             "key": "流光影视",
             "name": "流光｜影视",
@@ -578,16 +566,7 @@
             "api": "csp_XBPQ",
             "ext": "./XBPQ/流光影视.json"
         },
-        {
-            "key": "金牌影视",
-            "name": "金牌｜影视",
-            "type": 3,
-            "api": "csp_WebJP",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "KhY021WelCEl+6MsvwnzaPusskysEhxc/i3d/FHwReBTtZTeDEVZJbQKKez3K+OxlrjAIMdUpAUxP8fGystYn0Hss098UFVR69Qm2ARgmeZN86q8Ww=="
-        },
+
         {
             "key": "耐看影视",
             "name": "耐看｜影视",
@@ -607,13 +586,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "思古影视",
-            "name": "思古｜影视",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/思古影视.js"
-        },
+
         {
             "key": "魔力高清",
             "name": "魔力｜影视",
@@ -668,16 +641,7 @@
             "filterable": 1,
             "ext": "./XYQHiker/看看影视.json"
         },
-        {
-            "key": "七新影视",
-            "name": "七新｜影视",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/七新影视.json"
-        },
+        
         {
             "key": "骚火影视",
             "name": "骚火｜影视",
