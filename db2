@@ -220,86 +220,8 @@
                 "danmu": true
             }
         },
-        {
-            "key": "夸克二小弹幕",
-            "name": "二小｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://erxiao.banye.tech:7086",
-                "danmu": true
-            }
-        },
-        {
-            "key": "夸克百家弹幕",
-            "name": "百家｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "http://cj.jiexi.news",
-                "danmu": true
-            }
-        },
-        {
-            "key": "夸克叔叔弹幕",
-            "name": "叔叔｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://woss.banye.tech:7086",
-                "danmu": true
-            }
-        },
-        {
-            "key": "夸克大玩弹幕",
-            "name": "大玩｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://dawo.banye.tech:7086",
-                "danmu": true
-            }
-        },
-        {
-            "key": "夸克虎斑弹幕",
-            "name": "虎斑｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://huban.banye.tech:7086",
-                "danmu": true
-            }
-        },
+        
+        
         {
             "key": "雷鲸",
             "name": "雷鲸｜4K",
@@ -309,15 +231,7 @@
             "changeable": 1,
             "jar": "./wex.jar"
         },
-        {
-            "key": "天翼",
-            "name": "天翼｜4K",
-            "type": 3,
-            "api": "csp_Wextyso",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "./wex.jar"
-        },
+
         {
             "key": "盘他",
             "name": "盘他｜4K‍",
@@ -327,15 +241,7 @@
             "changeable": 1,
             "jar": "./wex.jar"
         },
-        {
-            "key": "Emby",
-            "name": "Emby｜4K",
-            "type": 3,
-            "api": "csp_Wexemby",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./wex.jar"
-        },
+
         {
             "key": "星芽短剧",
             "name": "星芽｜短剧",
@@ -355,27 +261,7 @@
             "filterable": 0,
             "ext": "KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
         },
-        {
-            "key": "爱看短剧",
-            "name": "爱看｜短剧",
-            "type": 3,
-            "api": "./PY/爱看短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "爱我短剧",
-            "name": "爱我｜短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XBPQ/爱我短剧.json"
-        },
+        
         {
             "key": "短剧网",
             "name": "短剧网｜短剧",
