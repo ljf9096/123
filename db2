@@ -1,4 +1,4 @@
-{
+{"spider":"./jar/77.jar;md5;ec8426171067c26543cea53ccd572c94;./spider.jar",
     
     
     "sites": [
