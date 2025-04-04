@@ -1,4 +1,4 @@
-{"spider": "./spider.jar",
+{
     
     
     "sites": [
