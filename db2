@@ -1,5 +1,7 @@
-{
-   "spider": "./spider.jar", 
+{"spider": "./spider.jar",
+    "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
+    "logo": "http://ceshi.xn--z7x900a.com/panda/0262.png",
+    
     "sites": [
         {
             "key": "豆瓣",
